@@ -1,6 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talenguyen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talenguyen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there
 
+- 🔭 I’m currently working on music game industry.
+- 🌱 I’m currently learning React Native.
+- 👯 I’m looking to collaborate on start up project.
+- 💬 Ask me about Android.
+- 📫 How to reach me giangnguyen.tale@gmail.com
 
 <!--
 **talenguyen/talenguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
